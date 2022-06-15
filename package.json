@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "positives": "nodemon ./__tests__/positives.js"
   },
   "keywords": [],
   "author": "marinkus",
